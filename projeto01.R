@@ -1,7 +1,7 @@
 
 # Definindo a pasta de trabalho
-setwd("/Users/robsonbonfim/Library/Mobile Documents/com~apple~CloudDocs/Education/dsa/FCD/01-BigDataRAzure/Cap20/Projeto1")
-getwd()
+#setwd("/Users/robsonbonfim/Library/Mobile Documents/com~apple~CloudDocs/Education/dsa/FCD/01-BigDataRAzure/Cap20/Projeto1")
+#getwd()
 
 # Importando as bibliotecas necessárias
 library(readxl)
