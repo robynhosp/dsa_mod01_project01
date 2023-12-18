@@ -11,7 +11,7 @@ library(dplyr)
 library(caTools)
 
 # Leitura dos dados
-df = read_excel("dados/FEV-data-Excel.xlsx") 
+df = read_excel("data/FEV-data-Excel.xlsx") 
 
 # Exploração Inicial dos Dados
 dim(df)
